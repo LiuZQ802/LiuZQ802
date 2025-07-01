@@ -18,7 +18,7 @@ My work focuses on leveraging Large Language Models (LLMs) for automating and en
 ## 🌱 Currently Learning
 
 - Advanced LLM applications in geospatial domains
-- Full-stack development with Vue
+- More and More
 
 ## 📫 How to reach me
 
