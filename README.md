@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @LiuZQ802
+# 👋 Hi, I’m Ziqi
 
 - 🎓 PhD student at **Wuhan University**
 - 🧑‍🔬 **Research Interests:** LLM-driven geospatial code generation
@@ -22,7 +22,7 @@ My work focuses on leveraging Large Language Models (LLMs) for automating and en
 
 ## 📫 How to reach me
 
-- Email: your.email@whu.edu.cn
+- Email: lzq1254307036@gmail.com
 - GitHub: [LiuZQ802](https://github.com/LiuZQ802)
 
 ## ⚽ Hobbies
