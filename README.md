@@ -22,7 +22,7 @@ My work focuses on leveraging Large Language Models (LLMs) for automating and en
 
 ## 📫 How to reach me
 
-- Email: lzq1254307036@gmail.com
+- Email: lzq677@whu.edu.cn
 - GitHub: [LiuZQ802](https://github.com/LiuZQ802)
 
 ## ⚽ Hobbies
