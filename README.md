@@ -1,142 +1,67 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=160&section=header&text=Ziqi%20Liu&fontSize=52&fontColor=e2e8f0&fontAlignY=40&desc=Ph.D%20%40%20Wuhan%20University&descSize=16&descAlignY=62&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6aff,100:a78bfa&height=200&section=header&text=Ziqi%20Liu&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Ph.D%20Student%20%7C%20LLM%20%C3%97%20Geoscience&descAlignY=55&descSize=18&animation=fadeIn" />
+<br/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ph.D+%40+Wuhan+University+%F0%9F%8E%93;LLM+%C3%97+Geoscience+Code+Generation+%F0%9F%8C%8D;Building+Spatial+Intelligence+%F0%9F%9A%80;Open+to+Research+Collaborations+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=1lxwhBMAAAAJ)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzq677@whu.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuZQ802)
-[![WHU](https://img.shields.io/badge/Wuhan%20University-%23003087.svg?style=for-the-badge&logo=academia&logoColor=white)](https://www.whu.edu.cn)
-
-</div>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=1lxwhBMAAAAJ">
+    <img src="https://img.shields.io/badge/Scholar-grey?style=flat-square&logo=google-scholar&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:lzq677@whu.edu.cn">
+    <img src="https://img.shields.io/badge/lzq677@whu.edu.cn-grey?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wuhan%20University-grey?style=flat-square&logo=academia&logoColor=white"/>
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LiuZQ802.LiuZQ802&left_color=1a1a2e&right_color=334155"/>
+</p>
 
 ---
 
-## 🧬 About Me
+I'm a Ph.D student at Wuhan University working on **LLM-based code generation for geoscience** —
+trying to make GIS and remote sensing workflows more accessible through language models.
 
-```python
-class ZiqiLiu:
-    def __init__(self):
-        self.name       = "Ziqi Liu (刘子琦)"
-        self.role       = "Ph.D Student"
-        self.university = "Wuhan University 🏛️"
-        self.research   = "LLM-based Geoscience Code Generation"
-        self.email      = "lzq677@whu.edu.cn"
-        self.interests  = ["Large Language Models", "GIS & Remote Sensing",
-                           "Code Generation", "Spatial Intelligence"]
-
-    def current_focus(self):
-        return "Bridging 🌍 Geoscience  +  🤖 LLMs  →  🔥 Intelligent Code Synthesis"
-
-    def fun_fact(self):
-        return "I read papers at 2am and call it 'research lifestyle' 📚"
-
-me = ZiqiLiu()
-print(me.current_focus())
-```
+When I'm not writing code, I'm reading papers, debugging prompts, or staring at satellite images wondering why the model got it wrong again.
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**AI / LLM**
-
-![OpenAI](https://img.shields.io/badge/LLM%20%2F%20GPT-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-**Geoscience & Tools**
-
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LiuZQ802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c6aff&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LiuZQ802&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6aff&fire=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuZQ802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🔬 Research Focus
+**Currently working on**
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🌍 Geoscience          🤖 LLM              💻 Code Gen   │
-│        │                   │                     │          │
-│        └──────────┬────────┘                     │          │
-│                   │                              │          │
-│              Semantic                            │          │
-│           Understanding        ←─────────────────┘          │
-│                   │                                         │
-│                   ▼                                         │
-│        Intelligent Geoscience Code Synthesis 🚀             │
-│                                                             │
-│   Goal: Make GIS/RS analysis accessible to everyone 🌐     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+LLM  ×  Geoscience  →  automatic code synthesis for spatial analysis
 ```
 
----
+**Interests** &nbsp;·&nbsp; Large Language Models &nbsp;·&nbsp; GIS & Remote Sensing &nbsp;·&nbsp; Code Generation &nbsp;·&nbsp; Prompt Engineering
 
-## 🏆 GitHub Trophies
+---v
 
-<div align="center">
+**Stack**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiuZQ802&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LiuZQ802&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c6aff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Vue-0f0f0f?style=flat-square&logo=vuedotjs&logoColor=41B883"/>
+  <img src="https://img.shields.io/badge/PyTorch-0f0f0f?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/HuggingFace-0f0f0f?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/LangChain-0f0f0f?style=flat-square&logo=langchain&logoColor=1C3C3C"/>
+  <img src="https://img.shields.io/badge/QGIS-0f0f0f?style=flat-square&logo=qgis&logoColor=589632"/>
+  <img src="https://img.shields.io/badge/Linux-0f0f0f?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=F05032"/>
+</p>
 
 ---
 
-<div align="center">
+**Stats**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6aff,100:a78bfa&height=100&section=footer&fontSize=16&fontColor=ffffff" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LiuZQ802&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=94a3b8&icon_color=e2e8f0&rank_icon=github&hide=contribs"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuZQ802&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=94a3b8"/>
+</p>
 
-*"Making geoscience more accessible through intelligent code generation."*
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuZQ802&bg_color=0d0d0d&color=94a3b8&line=e2e8f0&point=ffffff&hide_border=true&area=true&area_color=1a1a2e"/>
+</p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LiuZQ802.LiuZQ802&left_color=7c6aff&right_color=a78bfa)
+---
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>v
