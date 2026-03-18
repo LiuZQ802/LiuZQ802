@@ -22,14 +22,10 @@ Research tends to involve a lot of prompt engineering, staring at model outputs,
 &nbsp;
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=LiuZQ802&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=64748b&icon_color=e2e8f0&rank_icon=github&hide=contribs&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuZQ802&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=64748b&langs_count=6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LiuZQ802&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=64748b&icon_color=e2e8f0&rank_icon=github&hide=contribs&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiuZQ802&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&text_color=64748b&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuZQ802&bg_color=0d0d0d&color=64748b&line=475569&point=e2e8f0&hide_border=true&area=true&area_color=0d0d0d"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiuZQ802&hide_border=true&background=0d0d0d&stroke=1e293b&ring=475569&fire=e2e8f0&currStreakLabel=e2e8f0&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=94a3b8"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LiuZQ802&bg_color=0d0d0d&color=64748b&line=475569&point=e2e8f0&hide_border=true&area=true&area_color=1e293b"/>
 </p>
