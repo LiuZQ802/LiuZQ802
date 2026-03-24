@@ -6,9 +6,7 @@
 
 </div>
 
----
-
-## 🧭 About Me
+## About Me
 
 Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the intersection of **Large Language Models** and **Geoscience**.
 
@@ -22,15 +20,15 @@ Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the inte
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On
 
-- 🔭 **LLM + Geoscience Code Benchmark** — Building evaluation datasets for geo-specific code generation
-- 🧪 **Prompt Engineering for GIS Workflows** — Designing domain-aware prompts for spatial analysis automation
-- 📦 **Geoscience Copilot** — An AI assistant for geodata processing pipelines
+- **LLM + Geoscience Code Benchmark** — Building evaluation datasets for geo-specific code generation
+- **Prompt Engineering for GIS Workflows** — Designing domain-aware prompts for spatial analysis automation
+- **Geoscience Copilot** — An AI assistant for geodata processing pipelines
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
