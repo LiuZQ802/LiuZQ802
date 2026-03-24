@@ -32,7 +32,6 @@ Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the inte
 
 <div align="center">
 
-| Stats | Languages | Streak |
 |:---:|:---:|:---:|
 | ![](https://github-readme-stats.vercel.app/api?username=LiuZQ802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0891b2&text_color=e0f2fe) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiuZQ802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e0f2fe&langs_count=6) | ![](https://streak-stats.demolab.com?user=LiuZQ802&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=0891b2&fire=38bdf8&currStreakLabel=7dd3fc) |
 
