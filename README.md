@@ -39,8 +39,6 @@ Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the inte
 
 </div>
 
----
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LiuZQ802&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=0891b2&point=7dd3fc&area=true)](https://github.com/LiuZQ802)
