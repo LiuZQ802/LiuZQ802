@@ -52,8 +52,6 @@ Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the inte
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0c4a6e,100:0d1117&height=80&section=footer" />
-
 *"The Earth speaks in data — I help machines listen."* 🌍
 
 </div>
