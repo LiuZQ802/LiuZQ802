@@ -1,6 +1,15 @@
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-lzq677%40whu.edu.cn-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzq677@whu.edu.cn)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-LiuZQ802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuZQ802)
+&nbsp;&nbsp;
+[![WHU](https://img.shields.io/badge/Wuhan_University-whu.edu.cn-1d4ed8?style=for-the-badge&logo=academia&logoColor=white)](https://www.whu.edu.cn)
+
+</div>
 ## 🧭 About Me
 
-Hi, I'm **Ziqi Liu (刘子琦)**, a researcher at **Wuhan University** focused on the intersection of **Large Language Models** and **Geoscience**.
+Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the intersection of **Large Language Models** and **Geoscience**.
 
 | | |
 |---|---|
@@ -83,20 +92,6 @@ flowchart LR
 - 🔭 **LLM + Geoscience Code Benchmark** — Building evaluation datasets for geo-specific code generation
 - 🧪 **Prompt Engineering for GIS Workflows** — Designing domain-aware prompts for spatial analysis automation
 - 📦 **Geoscience Copilot** — An AI assistant for geodata processing pipelines
-
----
-
-## 📫 Get in Touch
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-lzq677%40whu.edu.cn-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzq677@whu.edu.cn)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-LiuZQ802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuZQ802)
-&nbsp;&nbsp;
-[![WHU](https://img.shields.io/badge/Wuhan_University-whu.edu.cn-1d4ed8?style=for-the-badge&logo=academia&logoColor=white)](https://www.whu.edu.cn)
-
-</div>
 
 ---
 
