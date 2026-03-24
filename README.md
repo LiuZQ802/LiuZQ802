@@ -1,9 +1,4 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0c4a6e&height=160&section=header&text=Ziqi%20Liu%20%E2%80%94%20%E5%88%98%E5%AD%90%E7%90%A6&fontSize=42&fontColor=e0f2fe&fontAlignY=55&desc=Geoscience%20%C3%97%20LLM%20Researcher%20%40%20Wuhan%20University&descAlignY=78&descSize=16&descColor=7dd3fc" />
-
-<br/>
-
 <a href="mailto:lzq677@whu.edu.cn">
   <img src="https://img.shields.io/badge/✉ lzq677@whu.edu.cn-0891b2?style=flat-square&logoColor=white" />
 </a>
