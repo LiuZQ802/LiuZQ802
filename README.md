@@ -1,24 +1,3 @@
-<div align="center">
-<a href="mailto:lzq677@whu.edu.cn">
-  <img src="https://img.shields.io/badge/✉ lzq677@whu.edu.cn-0891b2?style=flat-square&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.whu.edu.cn">
-  <img src="https://img.shields.io/badge/🎓 Wuhan University-1d4ed8?style=flat-square" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/📍 Wuhan, China-475569?style=flat-square" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=LiuZQ802&color=0891b2&style=flat-square&label=Profile Views" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=🌍+LLM-based+Geoscience+Code+Generation;🤖+Building+AI+for+Earth+Science;🐍+Python+%7C+Vue+%7C+LLM+%7C+GIS" />
-
-</div>
-
----
-
 ## 🧭 About Me
 
 Hi, I'm **Ziqi Liu (刘子琦)**, a researcher at **Wuhan University** focused on the intersection of **Large Language Models** and **Geoscience**.
