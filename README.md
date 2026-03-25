@@ -6,6 +6,7 @@
 [![LuoJia](https://img.shields.io/badge/Team-LuojiaGeoCode-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuojiaGeoCode)
 
 </div>
+
 Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the intersection of **Large Language Models** and **Geoscience**.
 
 | | |
