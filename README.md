@@ -1,11 +1,3 @@
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-lzq677%40whu.edu.cn-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzq677@whu.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-LiuZQ802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuZQ802)
-[![LuoJia](https://img.shields.io/badge/Team-LuojiaGeoCode-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuojiaGeoCode)
-
-</div>
-
 
 ## About Me
 
@@ -19,7 +11,13 @@ Hi, I'm **Ziqi Liu**, a Ph.D student at **Wuhan University** focused on the inte
 | 🌍 **Interests** | Geospatial Intelligence · LLMs · Automated Code Generation · Remote Sensing & GIS |
 | 💬 **Status** | Exploring the intersection of AI × Earth Science |
 
----
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-lzq677%40whu.edu.cn-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lzq677@whu.edu.cn)
+[![GitHub](https://img.shields.io/badge/GitHub-LiuZQ802-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LiuZQ802)
+[![LuoJia](https://img.shields.io/badge/Team-LuojiaGeoCode-1d4ed8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuojiaGeoCode)
+
+</div>
 
 ## Currently Working On
 
